@@ -1,0 +1,9 @@
+Aciklama:
+	mailbox adresini 40000den baslattim.
+		40000 - mutex 
+		40001 - full (semaphore)
+		40002 - empty (semaphore)
+		40003-40053 mailbox buffer  seklinde
+
+Mutex ve semaphoresuz olan implementationu "race condition implementation" altina koydum
+

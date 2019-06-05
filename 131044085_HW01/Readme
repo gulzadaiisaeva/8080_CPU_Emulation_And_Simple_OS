@@ -1,0 +1,24 @@
+YAPILANLAR:
+
+gtuos.h : Implement edildi
+gtuos.cpp : Implement edildi
+main.cpp : Implement edildi
+
+ASM DOSYALAR:
+	
+	ShowPrimes.asm --> 0-256 arasi sayilar icin calismaktadir.
+		Algoritma: iki dongu icinde
+			   1.loop : her sayi icin asal mi degil mi kontrolu yazildi
+		           2.dongu: asal kontrolu her sayi 2 ile kendisi arasindaki sayilara bolunur mu kontrol edildi.Subtraction yapilarak en son 				            cikan deger 0 compare edildi
+
+	Factorize.asm --> 0-256 arasindaki sayilar icin calisir
+		Algoritma: tek dongu icinde
+			   girilen sayinin 0 ile kendisi arasindaki sayilara bolunup bolunmedigi subtraction ve compare ile yazildi
+
+
+	Palindrome.asm--> her input icin calisir
+		Algoritma: girilen stringin traverse ederek size bulunuyor. Sizeinin yarisi kadar dongu ile first index ile last indexi 			   karsilastiriliyor. Dongu ileredikce increment decrement yapiliyor
+
+
+P.S.
+input.txt ile output.txt redirect olacak sekilde anladim.

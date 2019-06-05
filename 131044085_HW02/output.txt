@@ -1,0 +1,16 @@
+Enter a value for B: 
+Enter a value for B: 
+System Call PRINT_B   :   6
+System Call PRINT_B   :   55
+System Call PRINT_B   :   55
+System Call PRINT_B   :   3
+System Call PRINT_B   :   3
+System Call PRINT_B   :   10
+System Call PRINT_B   :   5
+System Call PRINT_B   :   16
+System Call PRINT_B   :   8
+System Call PRINT_B   :   4
+System Call PRINT_B   :   2
+System Call PRINT_B   :   1
+
+Total Number Of Cycles: 21443

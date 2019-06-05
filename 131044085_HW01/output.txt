@@ -1,0 +1,18 @@
+System Call PRINT_B   :   22
+System Call PRINT_B   :   11
+System Call PRINT_B   :   34
+System Call PRINT_B   :   17
+System Call PRINT_B   :   52
+System Call PRINT_B   :   26
+System Call PRINT_B   :   13
+System Call PRINT_B   :   40
+System Call PRINT_B   :   20
+System Call PRINT_B   :   10
+System Call PRINT_B   :   5
+System Call PRINT_B   :   16
+System Call PRINT_B   :   8
+System Call PRINT_B   :   4
+System Call PRINT_B   :   2
+System Call PRINT_B   :   1
+
+Total Number Of Cycles: 3290
